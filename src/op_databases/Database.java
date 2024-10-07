@@ -5,6 +5,11 @@ import op_databases.FileThrow.DATABASE;
 import java.io.*;
 
 
+/**
+ *
+ * @version b1.0
+ * @author Fanxy
+ */
 public class Database {
     public String spawn(File path, boolean doPrint) {
         // 获取文件的父目录
